@@ -29,3 +29,8 @@ The Credit Card Chronicles project focuses on analyzing credit card data to unco
   ## ER Diagram
   
   ![CC Analysis (3)](https://github.com/aaddii0911/ccanalysis/assets/154340466/a88d984a-d8ce-4b70-a398-e56973873db1)
+
+  ## Dashboard
+![db](https://github.com/aaddii0911/ccanalysis/assets/154340466/59e1cf86-7863-4c60-8f5b-0a660db11c75)
+
+  
