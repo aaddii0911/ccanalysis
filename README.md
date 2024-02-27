@@ -26,7 +26,6 @@ The Credit Card Chronicles project focuses on analyzing credit card data to unco
 - Include relevant charts, graphs, and tables to showcase spending patterns, trends, and insights.
 - Provide filters and interactivity options for users to explore the data dynamically.
 
-  ## Snippets
+  ## ER Diagram
+  
   ![CC Analysis (3)](https://github.com/aaddii0911/ccanalysis/assets/154340466/a88d984a-d8ce-4b70-a398-e56973873db1)
-
-  ![cc dashboard](https://github.com/aaddii0911/ccanalysis/assets/154340466/e55dbf4f-3d24-45ae-bd40-ffe1d2b23718)
